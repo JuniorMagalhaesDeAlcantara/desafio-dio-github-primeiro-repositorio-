@@ -1,0 +1,7 @@
+git init
+git status
+git add *
+git commit -m "comentario"
+git push origin master
+git remote add origin (endereço)
+git remote v
